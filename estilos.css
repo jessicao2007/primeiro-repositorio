@@ -1,9 +1,14 @@
 body {
-    background-color: #cccccc;
+    
 }
 
 h1 {
     text-align: center;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
 }
 
 p{
@@ -12,4 +17,24 @@ p{
 
 em p{
     color: red;
+}
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagembeneficio {
+    width: 50%;
+}
+
+u1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
