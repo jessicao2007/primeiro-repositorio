@@ -1,5 +1,9 @@
 body {
-    
+
+}
+
+img {
+    width: 100%;
 }
 
 h1 {
@@ -7,20 +11,20 @@ h1 {
 }
 
 .principal {
-    background: #cccccc;
+    background: #CCCCCC;
     padding: 30px;
 }
 
-p{
+p {
     text-align: center;
 }
 
-em p{
+em strong {
     color: red;
 }
 
 .beneficios {
-    background-color: #FFFFFF;
+    background: #FFFFFF;
     padding: 20px;
 }
 
@@ -28,11 +32,11 @@ h2 {
     text-align: center;
 }
 
-.imagembeneficio {
+.imagembeneficios {
     width: 50%;
 }
 
-u1 {
+ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
