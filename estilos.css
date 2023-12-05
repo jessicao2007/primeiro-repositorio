@@ -1,17 +1,17 @@
 body {
-
+    
 }
 
-img {
+img{
     width: 100%;
 }
 
-h1 {
+h2 {
     text-align: center;
 }
 
 .principal {
-    background: #CCCCCC;
+    background: #c186e4;
     padding: 30px;
 }
 
@@ -28,7 +28,7 @@ em strong {
     padding: 20px;
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
